@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ACE1B8F-ACBA-4ED1-BBFE-13D7CAC5108B}|ImagesAndWords\\Images.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\ImagesAndWords\\Images.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6ACE1B8F-ACBA-4ED1-BBFE-13D7CAC5108B}|ImagesAndWords\\Images.vcxproj|solutionrelative:ImagesAndWords\\Images.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8132F8A2-F8D1-48C8-ACAF-DFC05A90B1B3}|Password\\Password.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\Password\\Password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8132F8A2-F8D1-48C8-ACAF-DFC05A90B1B3}|Password\\Password.vcxproj|solutionrelative:Password\\Password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\part2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\part2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\SafeAndSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\SafeAndSound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{482D64C8-1EB3-41B5-AB7F-560DB40479E0}|SafeAndSound\\SafeAndSound.vcxproj|solutionrelative:SafeAndSound\\part1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Images.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\ImagesAndWords\\Images.cpp",
+              "RelativeDocumentMoniker": "ImagesAndWords\\Images.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\ImagesAndWords\\Images.cpp",
+              "RelativeToolTip": "ImagesAndWords\\Images.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T18:21:39.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Password.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\Password\\Password.cpp",
+              "RelativeDocumentMoniker": "Password\\Password.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\Password\\Password.cpp",
+              "RelativeToolTip": "Password\\Password.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T17:20:19.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "part2.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\part2.cpp",
+              "RelativeDocumentMoniker": "SafeAndSound\\part2.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\part2.cpp",
+              "RelativeToolTip": "SafeAndSound\\part2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T17:12:55.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SafeAndSound.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\SafeAndSound.cpp",
+              "RelativeDocumentMoniker": "SafeAndSound\\SafeAndSound.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\SafeAndSound.cpp",
+              "RelativeToolTip": "SafeAndSound\\SafeAndSound.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T17:12:35.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "part1.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\part1.cpp",
+              "RelativeDocumentMoniker": "SafeAndSound\\part1.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Documents\\Magshimim\\year2\\semesterA\\CPP\\week6\\New folder\\SafeAndSound\\part1.cpp",
+              "RelativeToolTip": "SafeAndSound\\part1.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T16:51:53.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
